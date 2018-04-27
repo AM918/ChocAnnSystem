@@ -1,5 +1,5 @@
 This is a project for COMP370.
-Project by: Michael Bennett (Coding/Design), Benjamin Friesen (Coding/Design), Ahmed Almogeet (Design), Zain-Ur-Rehmat (Design)
+Project by: Ahmed Almogeet (Coding/Design), Benjamin Friesen (Coding/Design), Michael Bennett (Coding/Design)
 
 This project was programmed in Python using the package PyQt5.
 
