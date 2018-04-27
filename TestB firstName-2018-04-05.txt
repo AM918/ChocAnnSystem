@@ -1,0 +1,36 @@
+Name: TestB firstName
+Number: 4
+Street: 24th Avenue
+City: Abbotsford
+Province: British Columbia
+Zipcode: V3V 1J3
+
+Service Date:	Tomorrow
+Input Date:		2018-04-05
+Member:			Dennis Chewafaawa
+Number:			1
+Code:			5
+Fee:			15
+
+Service Date:	Friday
+Input Date:		2018-04-05
+Member:			Dennis Chewafaawa
+Number:			1
+Code:			1
+Fee:			65
+
+Service Date:	2018-12-12
+Input Date:		2018-04-05
+Member:			Dennis Chewafaawa
+Number:			1
+Code:			6
+Fee:			120
+
+Service Date:	2018-09-30
+Input Date:		2018-04-05
+Member:			Dennis Chewafaawa
+Number:			1
+Code:			10
+Fee:			10
+Total Service: 4
+Total fee: $210

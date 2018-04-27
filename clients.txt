@@ -1,0 +1,11 @@
+$NAME TestC LastName|$STATUS Member|$NUMBER 2|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL testa@qb.com|$STAND Good|
+$NAME TestD LastName|$STATUS Member|$NUMBER 13|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL testa@db.com|$STAND Bad|
+$NAME TestE LastName|$STATUS Member|$NUMBER 5|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL testra@cb.com|$STAND Good|
+$NAME TestF LastName|$STATUS Member|$NUMBER 4|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL teesta@eb.com|$STAND Good|
+$NAME TestG LastName|$STATUS Member|$NUMBER 3|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL teqsta@ab.com|$STAND Undefined|
+$NAME newoiuta|$STATUS Member|$NUMBER 42|$STREET hfouwa|$CITY fiuhwa|$PROV fhouaw|$ZIPCODE gr|$EMAIL teesta@eb.com|$STAND Good|
+$NAME A B|$STATUS Member|$NUMBER 93|$STREET C D|$CITY Ef|$PROV GH|$ZIPCODE I1J|$EMAIL kl@mn.op|$STAND Good|
+$NAME Dennis Chewafaawa|$STATUS Member|$NUMBER 1|$STREET Massachussets|$CITY Langley|$PROV British Columbia|$ZIPCODE ZIP UP|$EMAIL jyar@gm.com|$STAND Good|
+$NAME TestA LastName|$STATUS Provider|$NUMBER 1|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL testa@b.com|$STAND Good|
+$NAME TestB firstName|$STATUS Provider|$NUMBER 4|$STREET 24th Avenue|$CITY Abbotsford|$PROV British Columbia|$ZIPCODE V3V 1J3|$EMAIL testa@rb.com|$STAND Good|
+$NAME 4325|$STATUS Provider|$NUMBER 542|$STREET rga|$CITY taewr|$PROV tat|$ZIPCODE watwa|$EMAIL twa|$STAND Good|

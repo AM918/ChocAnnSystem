@@ -1,0 +1,8 @@
+Name: TestA LastName
+Number: 1
+Street: 24th Avenue
+City: Abbotsford
+Province: British Columbia
+Zipcode: V3V 1J3
+Total Service: 0
+Total fee: $0

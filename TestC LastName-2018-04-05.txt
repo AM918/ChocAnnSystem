@@ -1,0 +1,6 @@
+Name: TestC LastName
+Number: 2
+Street: 24th Avenue
+City: Abbotsford
+Province: British Columbia
+Zipcode: V3V 1J3
